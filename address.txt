@@ -1,0 +1,30 @@
+<!doctype html>
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="address.css" type="text/css" />
+<title>Gods Love Is So Wonderful</title>
+</head>
+<body class="size">
+<header class="s1">
+<img src="logo4.png" alt="Blessed"/>
+<button class="s4" action="click"><a href="address.html">More tressure click me</a></button>
+</header>
+<div class="s2">
+<address>
+B.Nicelin Ebenezer,
+South Street,Noth Idayangulam,
+Pathmaneri(via),
+Cheran Mahadevi,
+Tirunelveli District,
+pincode-627502
+Phone Number:+9609758608
+Gmailaddress:nicelinjones@gmail.com
+www.JesusLovesFamily.com
+</address>
+ </div>
+ <footer class="s3">
+CopyrRight @ nicejones
+ </footer>
+</body>
+</html> 
